@@ -18,6 +18,8 @@ Ayarlar bölümünden AI'ın 10 farklı live moddaki seslerinden sevdiğinizi se
 
 ÖNEMLİ NOT: İndirdiğiniz zip dosyasını çıkarttıktan sonra bilgisayarınıza python kurun daha sonra VSCode gibi ugulamlar ile pythonu kullanmaya başlayın çıkarttığınız zip dosyasını sürükleyip VSCode'un içine atın ilk önce setup.py kurun en sonda main.py dan çalıştırın ( dosyaya güvenilsin mi diye sorarsa evet diyin )
 
+AYRICA SADECE WİNDOWS TA ÇALIŞIYOR ( şimdilik 😁 )
+
 NEXUS PERSONAL AI
 Nexus is a personal AI system—currently under development—that is built upon the Gemini infrastructure and offers various customization options (such as naming the AI ​​and choosing the interface color).
 
@@ -34,4 +36,9 @@ In the settings section, you can choose your preferred voice for the AI ​​fr
 "Created with GPT 6 - Luna"
 
 IMPORTANT NOTE: After extracting the downloaded zip file, install Python on your computer. Then, use an application like VSCode to work with Python. Drag and drop the extracted folder into VSCode. First, run setup.py to complete the setup, and finally, launch the program using main.py (if prompted to trust the file, select 'yes').
+
+ALSO, IT ONLY WORKS ON WINDOWS (for now 😁)
+
+
+
 
