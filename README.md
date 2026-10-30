@@ -14,6 +14,9 @@ Sistemi kurup ilk açtığında karşına kurulum aşaması gelecek senden ücre
 
 Ayarlar bölümünden AI'ın 10 farklı live moddaki seslerinden sevdiğinizi seçebilirsiniz.
 
+"GPT 6 - Luna ile üretildi"  
+
+ÖNEMLİ NOT: İndirdiğiniz zip dosyasını çıkarttıktan sonra bilgisayarınıza python kurun daha sonra VSCode gibi ugulamlar ile pythonu kullanmaya başlayın çıkarttığınız zip dosyasını sürükleyip VSCode'un içine atın ilk önce setup.py kurun en sonda main.py dan çalıştırın ( dosyaya güvenilsin mi diye sorarsa evet diyin )
 
 NEXUS PERSONAL AI
 Nexus is a personal AI system—currently under development—that is built upon the Gemini infrastructure and offers various customization options (such as naming the AI ​​and choosing the interface color).
@@ -27,3 +30,8 @@ SETUP PROCESS
 Upon installing and launching the system for the first time, you will be guided through a setup process. You will be asked for a free Gemini API key; you can easily obtain one by searching for "get Gemini API key" on Google. After pasting the API key into the interface, you will be prompted to enter your name or nickname, followed by an optional section where you can provide any additional information you would like the AI ​​to know about you. Once you move past this step, you will be asked to choose a name for the AI, followed by a selection for the interface color. After making these choices, you are ready to start using the system.
 
 In the settings section, you can choose your preferred voice for the AI ​​from 10 different options available for live mode.
+
+"Created with GPT 6 - Luna"
+
+IMPORTANT NOTE: After extracting the downloaded zip file, install Python on your computer. Then, use an application like VSCode to work with Python. Drag and drop the extracted folder into VSCode. First, run setup.py to complete the setup, and finally, launch the program using main.py (if prompted to trust the file, select 'yes').
+
