@@ -14,8 +14,7 @@ KURULUM AŞAMASI
 Sistemi kurup ilk açtığında karşına kurulum aşaması gelecek senden ücretsiz Gemini API anahtarı isteyecek bunu Google'a Gemini API Key al yazarsanız sizi yönlendirir. API anahtarını arayüze yapıştırdıktan sonra sizden isminizi veya lakabınızı isteyecek hemen altında da sizinle ilgili bilmesi gerekenleri soracak (opsiyonel) bu aşamayı da geçtikten sonra size kendi adını soracak kendi adını belirledikten sonra arayüz rengini soracak rengide seçtikten sonra sistemi kullanmaya başlayabilirsiniz. 
 
 Ayarlar bölümünden AI'ın 10 farklı live moddaki seslerinden sevdiğinizi seçebilirsiniz.
-
-"GPT 6 - Luna ile üretildi"  
+  
 
 ÖNEMLİ NOT: İndirdiğiniz zip dosyasını çıkarttıktan sonra bilgisayarınıza python kurun daha sonra VSCode gibi ugulamlar ile pythonu kullanmaya başlayın çıkarttığınız zip dosyasını sürükleyip VSCode'un içine atın ilk önce setup.py kurun en sonda main.py dan çalıştırın ( dosyaya güvenilsin mi diye sorarsa evet diyin )
 
@@ -35,7 +34,6 @@ Upon launching the system for the first time, you will be guided through a setup
 
 In the settings menu, you can choose your preferred voice for the AI ​​from 10 different options available in live mode.
 
-"Created with GPT 6 - Luna"
 
 IMPORTANT NOTE: After extracting the downloaded ZIP file, ensure you have Python installed on your computer. Then, use an application like VSCode to work with the files; simply drag and drop the extracted folder into VSCode. First, run `setup.py`, and finally, launch the program using `main.py` (if prompted to trust the file, select "yes").
 
